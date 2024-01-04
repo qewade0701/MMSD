@@ -1,1 +1,0 @@
-net localgroup "Administrators" "mmsdlab\WorkstationAdmins" /add
