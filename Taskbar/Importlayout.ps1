@@ -1,1 +1,0 @@
-Import-StartLayout -LayoutPath $PSScriptRoot\Taskbar.xml -MountPath $env:SystemDrive\
