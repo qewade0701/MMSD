@@ -1,0 +1,16 @@
+﻿Microsoft.GetHelp
+Microsoft.Getstarted
+Microsoft.MicrosoftOfficeHub
+Microsoft.MicrosoftSolitaireCollection
+Microsoft.People
+microsoft.windowscommunicationsapps
+Microsoft.WindowsFeedbackHub
+Microsoft.YourPhone
+Microsoft.XboxGamingOverlay
+Microsoft.ZuneMusic
+Microsoft.ZuneVideo
+Microsoft.GamingApp
+Microsoft.PowerAutomateDesktop
+Clipchamp.Clipchamp
+MicrosoftCorporationII.QuickAssist
+MicrosoftTeams
