@@ -13,5 +13,4 @@ Microsoft.GamingApp
 Microsoft.PowerAutomateDesktop
 Clipchamp.Clipchamp
 MicrosoftCorporationII.QuickAssist
-MicrosoftTeams
 Microsoft.Windows.DevHome
